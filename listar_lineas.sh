@@ -12,7 +12,7 @@
 #		if
 #	done
 
-
+#Consultar la versión de Matías para descripción
 if ! [ $# -eq 1 ]
 	then 
 		echo "Dame un directorio como argumento."
