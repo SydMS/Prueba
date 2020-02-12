@@ -1,2 +1,0 @@
-Mi primer fichero gestionado.
-Línea nueva.
